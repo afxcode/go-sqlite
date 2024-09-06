@@ -1,4 +1,4 @@
-module github.com/glebarez/go-sqlite
+module github.com/afxcode/go-sqlite
 
 go 1.17
 
