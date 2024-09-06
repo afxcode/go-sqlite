@@ -1,6 +1,6 @@
 package compat
 
-import "github.com/glebarez/go-sqlite"
+import "github.com/afxcode/go-sqlite"
 
 func init() {
 	sqlite.RegisterAsSQLITE3()
